@@ -36,8 +36,13 @@ Version=2023
 
 [TulipAddins]
 ActiveX=
+AgGrid=
 AI=
+ASPAjax=
 Database=
+DevExpress=
+Dojo=
+ExtJS=
 File Content=
 GWT=
 Insight=
@@ -52,16 +57,19 @@ Salesforce Lightning=
 SAP NWBC Desktop=
 SAP=
 SAPUI5=
+SiebelOpenUI=
 Windows Applications=
 TEA=
 Terminal Emulators=
 UI Automation=
+UIGrid=
 VisualAge Smalltalk=
 Visual Basic=
 Web=
 .NET=
 WPF=
 XML=
+YahooUI=
 
 [ExtraFiles]
 Test.tsp=
